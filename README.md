@@ -211,3 +211,7 @@ want_to_help = True
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abydow&repo=Python&show_icons=true&theme=radical)
+
+for stat, value in repository_stats.items():
+    print(f"{stat}: {value}")
+</div>
