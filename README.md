@@ -368,14 +368,10 @@ print("\n🌟 The adventure begins NOW! 🌟")
 <div align="center">
 
 **Made with 💖, ☕, and lots of 🐍 by [@abydow](https://github.com/abydow)**
-
-*"Learning Python one commit at a time!"* 
  
 **Status:** 🔥 Actively maintained & growing!  
 **Fun Level:** 🎪 Maximum Entertainment!  
 
-[![Python](https://forthebadge.com/images/badges/made-with-python.svg)](https://python.org)
-[![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/abydow/Python)
 **🎯 Remember:** *Every expert was once a beginner. Every pro was once an amateur. Every icon was once an unknown.* 🌟
 
 **Now go forth and code! The Python world awaits you!** 🐍✨
