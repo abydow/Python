@@ -313,8 +313,6 @@ support_promise = {
 ```
 ## ☕ Support This Project
 
-<div align="center">
-
 **Enjoying this learning journey?** 
 
 ### 🌟 Show Your Appreciation
@@ -342,7 +340,6 @@ This repository was inspired by:
 
 ---
 
-<div align="center">
 
 ## 🎉 The End... Or Is It The Beginning? 🚀
 
@@ -368,6 +365,7 @@ print("\n🌟 The adventure begins NOW! 🌟")
 ```
 
 ---
+<div align="center">
 
 **Made with 💖, ☕, and lots of 🐍 by [@abydow](https://github.com/abydow)**
 
