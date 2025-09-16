@@ -206,16 +206,6 @@ want_to_help = True
 
 ---
 
-## 📊 Repository Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abydow&repo=Python&show_icons=true&theme=radical)
-
-</div>
-
----
-
 ### 🎯 Content Standards
 
 - **📝 Markdown Format:** Clean, readable, mobile-friendly
