@@ -478,7 +478,6 @@ print("\n🌟 The adventure begins NOW! 🌟")
 
 [![Python](https://forthebadge.com/images/badges/made-with-python.svg)](https://python.org)
 [![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/abydow/Python)
-[![Powered by Coffee](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://buymeacoffee.com/abydow)
 
 **🎯 Remember:** *Every expert was once a beginner. Every pro was once an amateur. Every icon was once an unknown.* 🌟
 
@@ -493,7 +492,5 @@ print("\n🌟 The adventure begins NOW! 🌟")
 *⭐ If this README made you smile, consider starring the repo! ⭐*
 
 *🔄 If it helped you learn, consider sharing it with others! 🔄*
-
-*☕ If it saved you time, consider buying me a coffee! ☕*
 
 </div>
