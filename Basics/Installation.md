@@ -7,15 +7,15 @@
 ## 🎯 Table of Contents
 
 - [🎪 Welcome to the Python](#-welcome-to-the-python)
-- [🎮 Choose Your Adventure (Installation Method)](#-choose-your-adventure-installation-method)
-- [🖥️ Windows: The "It Just Works" Method](#%EF%B8%8F-windows-the-it-just-works-method)
-- [🍎 macOS: The "Think Different" Approach](#-macos-the-think-different-approach)
-- [🐧 Linux: The "I Use Arch BTW" Experience](#-linux-the-i-use-arch-btw-experience)
-- [🚀 Modern Tools: Welcome to the Future](#-modern-tools-welcome-to-the-future)
-- [🏠 Virtual Environments: Your Python's Personal Space](#-virtual-environments-your-pythons-personal-space)
-- [📦 Package Managers: The Great Debate](#-package-managers-the-great-debate)
-- [🎯 Version Management: Multiple Pythons, One System](#-version-management-multiple-pythons-one-system)
-- [✨ Python 3.13:](#-python-313)
+- [🎮 Choose Your Adventure](#-choose-your-adventure-installation-method)
+- [🖥️ Windows](#%EF%B8%8F-windows-the-it-just-works-method)
+- [🍎 macOS](#-macos-the-think-different-approach)
+- [🐧 Linux](#-linux-the-i-use-arch-btw-experience)
+- [🚀 Modern Tools](#-modern-tools-welcome-to-the-future)
+- [🏠 Virtual Environments](#-virtual-environments-your-pythons-personal-space)
+- [📦 Package Managers](#-package-managers-the-great-debate)
+- [🎯 Version Management](#-version-management-multiple-pythons-one-system)
+- [✨ Python 3.13](#-python-313)
 - [🎭 Common Pitfalls (And How to Avoid Them)](#-common-pitfalls-and-how-to-avoid-them)
 - [🔧 Interactive Troubleshooting](#-interactive-troubleshooting)
 - [🎉 Post-Installation Celebration](#-post-installation-celebration)
@@ -41,13 +41,13 @@ Python is currently the **#1 most popular programming language** according to th
 
 By the end of this guide, you'll know more installation methods than a software packager's fever dream:
 
-- [ ] Official Python installer (the classic)
-- [ ] Microsoft Store (the convenient)
-- [ ] Package managers (the professional)
-- [ ] Version managers (the power user)
-- [ ] Modern tools like UV (the future)
-- [ ] Virtual environments (the sane approach)
-- [ ] Docker (the "it works on my machine" solution)
+- [ ] The classic
+- [ ] The convenient
+- [ ] The professional
+- [ ] The power user
+- [ ] The future
+- [ ] The sane approach
+- [ ] It works on my machine
 
 ---
 
@@ -71,13 +71,13 @@ Are you brand new to programming?
 
 ###  In Case you are cofused, ask this--> 🔮
 
-- **ARE YOU THE "I just want it to work" person**: Official installer
-- **ARE YOU THE "I need the latest and greatest" person**: pyenv or UV
-- **ARE YOU THE  "I love data science" person**: Anaconda
-- **ARE YOU THE "I live in the terminal" person**: Package manager
-- **ARE YOU THE "I containerize everything" person**: Docker
-- **ARE YOU THE "I'm a Windows normie" person**: Microsoft Store
-- **ARE YOU THE "I compile everything from source" person**: ...why are you reading this?
+- **ARE YOU THE "I just want it to work" person**:            Official installer
+- **ARE YOU THE "I need the latest and greatest" person**:    pyenv or UV
+- **ARE YOU THE  "I love data science" person**:              Anaconda
+- **ARE YOU THE "I live in the terminal" person**:            Package manager
+- **ARE YOU THE "I containerize everything" person**:         Docker
+- **ARE YOU THE "I'm a Windows normie" person**:              Microsoft Store
+- **ARE YOU THE "I compile everything from source" person**:  ...why are you reading this?
 
 </details>
 
@@ -1072,5 +1072,5 @@ uv run python main.py
 
 <div align="center">
   <p><strong>Found this guide helpful? Star it, share it, or send coffee! ☕</strong></p>
-  <p><em>Made with 💖 and Python 3.13</em></p>
+  <p><em>Made with 💖 and Python 3.13.7(current edition)</em></p>
 </div>
