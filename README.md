@@ -373,7 +373,7 @@ print("\n🌟 The adventure begins NOW! 🌟")
 ```
 
 ---
-
+<div>
 **Made with 💖, ☕, and lots of 🐍 by [@abydow](https://github.com/abydow)**
 
 *"Learning Python one commit at a time!"* 
