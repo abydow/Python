@@ -11,9 +11,6 @@
 **Welcome to my epic Python learning adventure! 🎢**
 
 *Where bugs become features and errors become learning opportunities!* 😄
-
-[🚀 Start Learning](#-quick-start-your-python-adventure) • [📚 Browse Content](#-learning-modules) • [🎮 Take Challenges](#-interactive-challenges) • [🤝 Contribute](#-join-the-adventure) • [☕ Buy Me Coffee](#-support)
-
 </div>
 
 ---
