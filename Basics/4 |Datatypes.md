@@ -1,6 +1,6 @@
 # 🐍 The Ultimate Python Data Types Adventure! 🎮
 
-[![Python Datatypes](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Python Datatypes](https://img.shields.io/badge/Python-Datatypes-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Fun](https://img.shields.io/badge/Fun-Level%20100-brightgreen?style=for-the-badge)](https://github.com)
 [![Interactive](https://img.shields.io/badge/Interactive-Yes!-blue?style=for-the-badge)](https://github.com)
 [![Eye Candy](https://img.shields.io/badge/Eye%20Candy-✨-ff69b4?style=for-the-badge)](https://github.com)
