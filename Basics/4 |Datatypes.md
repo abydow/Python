@@ -10,12 +10,12 @@
 ## 🎪 Table of Contents - Your Data Type Circus!
 
 - [🎭 What Are Data Types?](#-what-are-data-types)
-- [🔢 Numeric Types - The Number Ninjas](#-numeric-types---the-number-ninjas)
-- [🔤 String Type - The Text Wizard](#-string-type---the-text-wizard)
-- [📚 Sequence Types - The Collection Champions](#-sequence-types---the-collection-champions)
-- [🗺️ Dictionary Type - The Key-Value Kingdom](#️-dictionary-type---the-key-value-kingdom)
-- [🎯 Boolean Type - The True/False Heroes](#-boolean-type---the-truefalse-heroes)
-- [🎯 Set Types - The Unique Squad](#-set-types---the-unique-squad)
+- [🔢 Numeric Types](#-numeric-types---the-number-ninjas)
+- [🔤 String Type ](#-string-type---the-text-wizard)
+- [📚 Sequence Types](#-sequence-types---the-collection-champions)
+- [🗺️ Dictionary Type](#️-dictionary-type---the-key-value-kingdom)
+- [🎯 Boolean Type ](#-boolean-type---the-truefalse-heroes)
+- [🎯 Set Types ](#-set-types---the-unique-squad)
 - [🎮 Interactive Playground](#-interactive-playground)
 - [🎨 Fun Projects to Try](#-fun-projects-to-try)
 - [🏆 Data Type Mastery Challenges](#-data-type-mastery-challenges)
