@@ -125,7 +125,7 @@ Strings are like **magical scrolls** 📜 that contain text! They're sequences o
 ```python
 # 🧙‍♂️ The Text Wizard's Spellbook
 wizard_name = "Pythonicus the Great"
-spell_chant = 'Abracadabra-Code-Alakazam!'
+spell_chant = 'Abracadabra'
 multiline_scroll = """
 🔮 Ancient Python Wisdom:
    "In code we trust,
