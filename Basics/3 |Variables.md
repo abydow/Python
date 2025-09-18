@@ -626,6 +626,6 @@ Found a bug? Have a suggestion? Want to add more fun examples?
 
 **Happy Coding! 🐍✨**
 
-Made with ❤️ by Python enthusiasts
+Made with ❤️
 
 </div>
