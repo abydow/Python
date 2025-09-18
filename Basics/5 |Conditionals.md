@@ -2,7 +2,7 @@
 
 > "In programming, as in life, it's not about the decisions you make, but how elegantly you make them." - *A wise Python developer*
 
-[[![Python Datatypes](https://img.shields.io/badge/Python-Conditionals-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Python Datatypes](https://img.shields.io/badge/Python-Conditionals-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-green?style=for-the-badge)
 ![Fun Factor](https://img.shields.io/badge/Fun%20Factor-💯-ff69b4?style=for-the-badge)
 ---
