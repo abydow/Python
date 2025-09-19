@@ -948,7 +948,7 @@ Pull requests welcome! Ideas for new challenges, examples, or improvements are a
 
 ---
 
-**Made with ❤️ 
+**Made with ❤️ and ☕☕☕
 
 *"In loops we trust, in Python we code!"* 🐍✨
 
