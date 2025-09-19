@@ -26,7 +26,7 @@
 
 Imagine you're a DJ and need to play the same song 100 times. Would you:
 - **Option A**: Click play 100 times manually 😴
-- **Option B**: Set it to repeat and grab some coffee ☕
+- **Option B**: Set it to repeat and grab some ☕
 
 That's exactly what loops do in programming! They're your personal assistants that handle repetitive tasks while you focus on the fun stuff.
 
