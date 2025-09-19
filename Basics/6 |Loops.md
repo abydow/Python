@@ -763,7 +763,16 @@ performance_battle()
 🥉 #3: 🐇 For Loop - 0.0089s
 🏅 #4: 🐢 While Loop - 0.0156s
 ```
-![alt text](image.png)
+Python Loop Performance Comparison
+
+Loop Type         Time (seconds)        Bar
+----------------------------------------------------------
+While             0.0156s              ████████████████████
+For               0.0089s              ██████████
+List Comp         0.0067s              ████████
+Built-in Sum      0.0021s              █
+----------------------------------------------------------
+(█ ≈ 0.001s)
 
 **🎯 Key Takeaways:**
 - Built-in functions are usually fastest (written in C!)
