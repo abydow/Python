@@ -763,6 +763,7 @@ performance_battle()
 🥉 #3: 🐇 For Loop - 0.0089s
 🏅 #4: 🐢 While Loop - 0.0156s
 ```
+![alt text](image-1.png)
 
 **🎯 Key Takeaways:**
 - Built-in functions are usually fastest (written in C!)
@@ -901,7 +902,7 @@ def loop_master_challenge():
 
 ## 🎉 Congratulations, Loop Hero!
 
-You've completed your journey from loop zero to loop hero! 🚀
+You've completed your journey from loop zero to loop hero! 🚀.
 
 ### 🌟 What You've Mastered:
 
