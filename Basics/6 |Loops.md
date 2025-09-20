@@ -18,7 +18,7 @@
 - [🚨 Common Pitfalls & How to Avoid Them](#-common-pitfalls--how-to-avoid-them)
 - [🏆 Real-World Projects](#-real-world-projects)
 - [📊 Performance Battle](#-performance-battle)
-- [📚 Cheat Sheet](#loop-cheat-sheet)
+- [📚 Cheat Sheet](#-loop-cheat-sheet)
 
 ---
 
