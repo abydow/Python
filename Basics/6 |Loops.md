@@ -11,8 +11,8 @@
 ## 📚 Table of Contents
 
 - [🎯 What Are Loops?](#-what-are-loops)
-- [🔄 While Loops: The Patient Waiters](#-while-loops-the-patient-waiters)
-- [🏃‍♂️ For Loops: The Speed Demons](#️-for-loops-the-speed-demons)  
+- [🔄 While Loops](#-while-loops-the-patient-waiters)
+- [🏃‍♂️ For Loops](#-for-loops-the-speed-demons)  
 - [⚡ Advanced Loop Techniques](#-advanced-loop-techniques)
 - [🎮 Interactive Challenges](#-interactive-challenges)
 - [🚨 Common Pitfalls & How to Avoid Them](#-common-pitfalls--how-to-avoid-them)
