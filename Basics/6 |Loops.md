@@ -17,7 +17,7 @@
 - [🎮 Interactive Challenges](#-interactive-challenges)
 - [🚨 Common Pitfalls & How to Avoid Them](#-common-pitfalls--how-to-avoid-them)
 - [🏆 Real-World Projects](#-real-world-projects)
-- [📊 Performance Battle](#-performance-battle)
+- [📊 Performance Battle](#-performance-battle-loop-showdown)
 - [📚 Cheat Sheet](#-loop-cheat-sheet)
 
 ---
