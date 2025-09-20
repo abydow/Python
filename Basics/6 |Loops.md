@@ -12,7 +12,7 @@
 
 - [🎯 What Are Loops?](#-what-are-loops)
 - [🔄 While Loops](#-while-loops-the-patient-waiters)
-- [🏃‍♂️ For Loops](#-for-loops-the-speed-demons)  
+- [🏃‍♂️ For Loops](#%E2%80%8D%EF%B8%8F-for-loops-the-speed-demons)  
 - [⚡ Advanced Loop Techniques](#-advanced-loop-techniques)
 - [🎮 Interactive Challenges](#-interactive-challenges)
 - [🚨 Common Pitfalls & How to Avoid Them](#-common-pitfalls--how-to-avoid-them)
