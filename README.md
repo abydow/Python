@@ -40,49 +40,6 @@ class PythonLearningJourney:
     def inspire(self, learner):
         return f"Transform {learner} into a Python superhero! 🦸‍♂️"
 ```
-
----
-## 🚀 Quick Start: Your Python Adventure
-
-### 🎬 Choose Your Adventure Path
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-**🆕 Complete Beginner**
-```python
-path = "newbie"
-excitement_level = "high"
-fear_of_coding = "medium"
-```
-👉 [Start with Installation Guide](Basics/Installation.md)
-
-</td>
-<td width="33%" align="center">
-
-**🔄 Refreshing Knowledge**
-```python
-path = "refresher"
-python_experience = "some"
-need_structure = True
-```
-👉 [Jump to Syntax Guide](Basics/python_basic_syntax.md)
-
-</td>
-<td width="33%" align="center">
-
-**🚀 Ready to Contribute**
-```python
-path = "contributor"
-github_skills = "advanced"
-want_to_help = True
-```
-👉 [Join the Community](#-join-the-adventure)
-
-</td>
-</tr>
-</table>
 ---
 
 ## 🎨 Repository Features
