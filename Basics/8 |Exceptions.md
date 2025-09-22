@@ -767,7 +767,7 @@ Did you know that Python's exception handling is so elegant that other languages
 
 ---
 
-div align="center">
+<div align="center">
 
 ### 🎉 Happy Coding! 
 
