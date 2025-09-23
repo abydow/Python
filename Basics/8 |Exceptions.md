@@ -2,7 +2,7 @@
 
 > *"The only thing worse than an error is an error you don't know how to handle!"* - Pythonic Wisdom
 
-[![Python Datatypes](https://img.shields.io/badge/Python-Exceptions-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Python Exceptions](https://img.shields.io/badge/Python-Exceptions-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-green?style=for-the-badge)
 ![Fun Factor](https://img.shields.io/badge/Fun%20Factor-💯-ff69b4?style=for-the-badge)
 
