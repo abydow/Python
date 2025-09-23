@@ -36,7 +36,7 @@
 3 | Database Backup Utility
 4 | scalable E-commerce platform
 
-![click here to learn more](https://roadmap.sh/python/projects)
+[![click here to learn more](https://roadmap.sh/python/projects)]
 
 
 
