@@ -40,7 +40,7 @@
 
 ---
 
-[click here to learn more](https://roadmap.sh/python/projects)(
+[click here to learn more](https://roadmap.sh/python/projects)
 
 
 
