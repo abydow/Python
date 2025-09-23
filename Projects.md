@@ -19,6 +19,8 @@
 12| Expense Tacker API
 13| TMDB CLI Tool
 
+--- 
+
 ## Intermediate :- 
 
 1 | caching proxy
@@ -29,12 +31,16 @@
 6 | workout tracker
 7 | Image processing service
 
+---
+
 ## Advanced :- 
 
 1 | Movie Reservation System
 2 | Real-time Leaderboard
 3 | Database Backup Utility
 4 | scalable E-commerce platform
+
+---
 
 [![click here to learn more](https://img.shields.io/badge/CLICK-HERE-TO=KNOW-MORE-green?style=for-the-badge)](https://roadmap.sh)
 
