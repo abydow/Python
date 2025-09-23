@@ -5,40 +5,38 @@
 
 ## Beginner :- 
  
-1 |[Tic-Tac-Toe game](https://github.com/abydow/Tic_Tac_Toe-game.git)
-2 |[Blackjack game](https://github.com/abydow/Black-jack-game.git) 
-3 |[Tasktracker](https://github.com/abydow/Tasktracker-CLI-.git)
-4 | Github User Activity
-5 | Expense Tracker
-6 | Number Guessing Game
-7 | Unit converter
-8 | Personal Blog
-9 | weather Api
-10| Blgging platform API
-11| Todo List 
-12| Expense Tacker API
-13| TMDB CLI Tool
+- 1 |[Tic-Tac-Toe game](https://github.com/abydow/Tic_Tac_Toe-game.git)
+- 2 |[Blackjack game](https://github.com/abydow/Black-jack-game.git) 
+- 3 |[Tasktracker](https://github.com/abydow/Tasktracker-CLI-.git)
+- 4 | Github User Activity
+- 5 | Expense Tracker
+- 6 | Number Guessing Game
+- 7 | Unit converter
+- 8 | Personal Blog
+- 9 | weather Api
+- 10| Blgging platform API
+- 11| Todo List 
+- 12| Expense Tacker API
+- 13| TMDB CLI Tool
 
---- 
 
 ## Intermediate :- 
 
-1 | caching proxy
-2 | Markdown note Taking app
-3 | URL shortening service
-4 | Brodcast server 
-5 | E-commerce API
-6 | workout tracker
-7 | Image processing service
+- 1 | caching proxy
+- 2 | Markdown note Taking app
+- 3 | URL shortening service
+- 4 | Brodcast server 
+- 5 | E-commerce API
+- 6 | workout tracker
+- 7 | Image processing service
 
----
 
 ## Advanced :- 
 
-1 | Movie Reservation System
-2 | Real-time Leaderboard
-3 | Database Backup Utility
-4 | scalable E-commerce platform
+- 1 | Movie Reservation System
+- 2 | Real-time Leaderboard
+- 3 | Database Backup Utility
+- 4 | scalable E-commerce platform
 
 ---
 
