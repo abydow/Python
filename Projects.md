@@ -40,7 +40,7 @@
 
 ---
 
-[![click here to learn more](https://img.shields.io/badge/Python-Functions-blue?style=for-the-badge&logo=python&logoColor=white)](https://roadmap.sh/python/projects)
+[![click here to learn more](https://img.shields.io/badge/Click_Here_To_Learn_More-🐍-blue?style=for-the-badge&logo=python&logoColor=white)](https://roadmap.sh/python/projects)
 
 
 
