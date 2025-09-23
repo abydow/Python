@@ -1,5 +1,5 @@
 # Projects in python from Beginner to Advance: 
-(projects that will help to showcase you python skill)
+> (projects that will help to showcase you python skill)
 
 ---
 
