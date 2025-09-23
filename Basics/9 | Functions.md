@@ -2227,9 +2227,30 @@ def advanced_function(
     # Function body
     return result
 ```
+---
+
+## 📞 Need Help?
+
+- 📖 [Python Official Documentation](https://docs.python.org/3/library/functions.html)
+- 🐍 [Real Python Functions Guide](https://realpython.com/defining-your-own-python-function/)
+- 💬 [Python Community](https://python.org/community/)
+- 🤔 [Programiz](https://www.programiz.com/python-programming/methods/built-in/len)
 
 ---
 
 *Made with 💖 by Python enthusiasts for Python enthusiasts!*
 
 *Remember: Functions are like friends - the good ones are reusable, reliable, and make your life easier! 🤗*
+
+--- 
+
+<div align="center">
+
+### 🎉 Happy Coding! 
+
+*Made with ❤️ and lots of ☕ by the Python community*
+
+[![GitHub](https://img.shields.io/badge/Star_this_repo-⭐-yellow?style=for-the-badge)](https://github.com)
+[![Share](https://img.shields.io/badge/Share_the_magic-🔄-blue?style=for-the-badge)](https://github.com)
+
+</div>
