@@ -5,9 +5,9 @@
 
 ## Beginner :- 
  
-1 | ![Tic-Tac-Toe game](https://github.com/abydow/Tic_Tac_Toe-game.git)
-2 | ![Blackjack game](https://github.com/abydow/Black-jack-game.git) 
-3 | ![Tasktracker](https://github.com/abydow/Tasktracker-CLI-.git)
+1 |[Tic-Tac-Toe game](https://github.com/abydow/Tic_Tac_Toe-game.git)
+2 |[Blackjack game](https://github.com/abydow/Black-jack-game.git) 
+3 |[Tasktracker](https://github.com/abydow/Tasktracker-CLI-.git)
 4 | Github User Activity
 5 | Expense Tracker
 6 | Number Guessing Game
