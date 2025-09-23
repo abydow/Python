@@ -2,7 +2,7 @@
 
 > *"Functions are like pizza slices 🍕 - they're best when shared, reusable, and you can customize them with different toppings (arguments)!"*
 
-[![Python Datatypes](https://img.shields.io/badge/Python-Functions,Built-in-Functions-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Python Datatypes](https://img.shields.io/badge/Python-Functionss-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-green?style=for-the-badge)
 ![Fun Factor](https://img.shields.io/badge/Fun%20Factor-💯-ff69b4?style=for-the-badge)
 
