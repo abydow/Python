@@ -939,7 +939,7 @@ Found a bug? Have a cool example? Want to add more fun?
 
 **May your lists be bug-free and your code be elegant!** ✨
 
-**"Happy Coding! 🐍💻**
+**Happy Coding! 🐍💻**
 
 ---
 
