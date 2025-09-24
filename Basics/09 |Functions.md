@@ -2238,7 +2238,7 @@ def advanced_function(
 
 ---
 
-*Made with 💖 by Python enthusiasts for Python enthusiasts!*
+*Made with 💖  for Python enthusiasts!*
 
 *Remember: Functions are like friends - the good ones are reusable, reliable, and make your life easier! 🤗*
 
@@ -2248,7 +2248,7 @@ def advanced_function(
 
 ### 🎉 Happy Coding! 
 
-*Made with ❤️ and lots of ☕ by the Python community*
+*Made with ❤️ and lots of ☕ for the Python community*
 
 [![GitHub](https://img.shields.io/badge/Star_this_repo-⭐-yellow?style=for-the-badge)](https://github.com)
 [![Share](https://img.shields.io/badge/Share_the_magic-🔄-blue?style=for-the-badge)](https://github.com)
