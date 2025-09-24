@@ -941,9 +941,14 @@ Found a bug? Have a cool example? Want to add more fun?
 
 **Happy Coding! 🐍💻**
 
+
 ---
 
 **Made with ❤️ for Python enthusiasts**
+
+[![GitHub](https://img.shields.io/badge/Star_this_repo-⭐-yellow?style=for-the-badge)](https://github.com)
+[![Share](https://img.shields.io/badge/Share_the_magic-🔄-blue?style=for-the-badge)](https://github.com)
+
 </div>
 
 ---
