@@ -2237,14 +2237,13 @@ def advanced_function(
 - 🤔 [Programiz](https://www.programiz.com/python-programming/methods/built-in/len)
 
 ---
+<div align="center">
 
 *Made with 💖  for Python enthusiasts!*
 
 *Remember: Functions are like friends - the good ones are reusable, reliable, and make your life easier! 🤗*
 
---- 
 
-<div align="center">
 
 ### 🎉 Happy Coding! 
 
