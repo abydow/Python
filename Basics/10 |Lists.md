@@ -939,17 +939,11 @@ Found a bug? Have a cool example? Want to add more fun?
 
 **May your lists be bug-free and your code be elegant!** ✨
 
-```python
-print("Happy Coding! 🐍💻")
-```
+**"Happy Coding! 🐍💻**
 
 ---
 
-**Made with ❤️ by Python enthusiasts, for Python enthusiasts**
-
-[![GitHub Stars](https://img.shields.io/badge/Give%20a%20⭐-if%20this%20helped!-yellow.svg)](https://github.com)
-[![Share](https://img.shields.io/badge/Share-with%20friends!-blue.svg)](https://github.com)
-
+**Made with ❤️ for Python enthusiasts**
 </div>
 
 ---
