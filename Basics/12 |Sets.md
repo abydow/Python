@@ -495,10 +495,6 @@ Found a bug in the examples? Have a cool set trick to share? Open an issue or PR
 
 ---
 
-*Happy coding, and may your collections always be unique! 🎭✨*
-
----
-
 <div align="center">
 
 **🎭 "Remember: In the world of Python, tuples are like a good joke - timing is everything, and once delivered, they never change!" 🎭**
