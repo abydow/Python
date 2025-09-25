@@ -1,9 +1,8 @@
 # 🐍 The Ultimate Python Dictionary Guide: From Zero to Hero! 🦸‍♂️
 
-[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://python.org)
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/your-username)
-[![Coffee](https://img.shields.io/badge/Powered%20by-Coffee-brown.svg)](https://www.buymeacoffee.com)
+[![Python Dictionaries](https://img.shields.io/badge/Python-Dictionaries-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-green?style=for-the-badge)
+![Fun Factor](https://img.shields.io/badge/Fun%20Factor-💯-ff69b4?style=for-the-badge)
 
 ## 🎯 Table of Contents (Click to Navigate!)
 
@@ -1117,11 +1116,13 @@ Now that you're a dictionary master, consider exploring:
 
 <div align="center">
 
-### 🎉 Congratulations! You're now a Python Dictionary Hero! 🦸‍♂️
+### 🎉 Congratulations! You're now a Python Hero! 🦸‍♂️
 
 **Made with ❤️ and lots of ☕**
 
-[⬆ Back to Top](#-the-ultimate-python-dictionary-guide-from-zero-to-hero-)
+[![GitHub](https://img.shields.io/badge/Star_this_repo-⭐-yellow?style=for-the-badge)](https://github.com)
+[![Share](https://img.shields.io/badge/Share_the_magic-🔄-blue?style=for-the-badge)](https://github.com)
+
 
 ---
 
