@@ -2,7 +2,7 @@
 
 > **"Lists are like your best friend's backpack - you can stuff anything in there, take stuff out, rearrange it, and it'll still be there for you!"** 💼✨
 
-[![Python Functions](https://img.shields.io/badge/Python-Lists-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Python Tuples](https://img.shields.io/badge/Python-Lists-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-green?style=for-the-badge)
 ![Fun Factor](https://img.shields.io/badge/Fun%20Factor-💯-ff69b4?style=for-the-badge)
 
