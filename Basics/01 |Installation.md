@@ -25,7 +25,7 @@
 
 ## 🎪 Welcome to the Python
 
-Welcome, brave soul, to the wonderfully chaotic world of Python installation! 🎪 
+Welcome, brave soul, to the wonderful yet chaotic world of Python installation! 🎪 
 
 Whether you're a complete beginner who thinks "Python" is just a large snake, or a seasoned developer who has 17 different Python versions on their machine and isn't quite sure how they got there, this guide is for you!
 
@@ -41,13 +41,13 @@ Python is currently the **#1 most popular programming language** according to th
 
 By the end of this guide, you'll know more installation methods than a software packager's fever dream:
 
-- [ ] The classic
-- [ ] The convenient
-- [ ] The professional
+- [ ] The classic way
+- [ ] The convenient way
+- [ ] The professional way
 - [ ] The power user
 - [ ] The future
 - [ ] The sane approach
-- [ ] It works on my machine
+- [ ] It works on my machine method 
 
 ---
 
@@ -71,13 +71,20 @@ Are you brand new to programming?
 
 ###  In Case you are cofused, ask this--> 🔮
 
-- **ARE YOU THE "I just want it to work" person**:            Official installer
-- **ARE YOU THE "I need the latest and greatest" person**:    pyenv or UV
-- **ARE YOU THE  "I love data science" person**:              Anaconda
-- **ARE YOU THE "I live in the terminal" person**:            Package manager
-- **ARE YOU THE "I containerize everything" person**:         Docker
-- **ARE YOU THE "I'm a Windows normie" person**:              Microsoft Store
-- **ARE YOU THE "I compile everything from source" person**:  ...why are you reading this?
+- **ARE YOU THE "I just want it to work" person** >>            
+- Official installer
+- **ARE YOU THE "I need the latest and greatest" person** >>
+- pyenv or UV
+- **ARE YOU THE  "I love data science" person** >>          
+- Anaconda
+- **ARE YOU THE "I live in the terminal" person** >>     
+- Package manager
+- **ARE YOU THE "I containerize everything" person** >>    
+- Docker
+- **ARE YOU THE "I'm a Windows normie" person** >>   
+- Microsoft Store
+- **ARE YOU THE "I compile everything from source" person** >>
+- ...why are you reading this?
 
 </details>
 
