@@ -838,7 +838,7 @@ Found a bug in our tuple comedy show? Want to add more jokes?
 
 ---
 
-### Essential Resources
+## Essential Resources
 
 - **📖 Official Python Documentation**: [Python Tuples](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences)
 - [**The New Stack**](https://thenewstack.io/python-for-beginners-when-and-how-to-use-tuples/)
