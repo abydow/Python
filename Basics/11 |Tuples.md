@@ -843,7 +843,7 @@ Found a bug in our tuple comedy show? Want to add more jokes?
 - **📖 Official Python Documentation**: [Python Tuples](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences)
 - [**The New Stack**](https://thenewstack.io/python-for-beginners-when-and-how-to-use-tuples/)
 - [**Real Python**](https://realpython.com/python-tuple/#getting-started-with-pythons-tuple-data-type)
-- **Youtube**: [NeworkChuck](https://www.youtube.com/watch?v=fR_D_KIAYrE)
+- **Youtube**: [NetworkChuck](https://www.youtube.com/watch?v=fR_D_KIAYrE)
 
 ---
 
