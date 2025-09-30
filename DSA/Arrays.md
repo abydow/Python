@@ -1,6 +1,6 @@
 # 🐍 Python Arrays: Complete Interactive Guide
 [![Python Arrays](https://img.shields.io/badge/Python-Arrays-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-![Topic](https://img.shields.io/badge/Topic-Arrays-green?style=for-the-badge)
+![Topic](https://img.shields.io/badge/Topic-Data%20Structures-green?style=for-the-badge)
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-orange?style=for-the-badge)
 ---
 
