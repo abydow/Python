@@ -1,7 +1,7 @@
 # 🐍 Python Arrays: Complete Interactive Guide
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.7+-blue.svg" alt="Python Version">
+  [![Python Dictionaries](https://img.shields.io/badge/Python-Dictionaries-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
   <img src="https://img.shields.io/badge/Topic-Data%20Structures-green.svg" alt="Topic">
   <img src="https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-orange.svg" alt="Level">
 </p>
