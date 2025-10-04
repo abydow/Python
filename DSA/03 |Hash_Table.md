@@ -1,6 +1,12 @@
 # 🔐 **The Complete Python Hash Tables Guide** 
 ## *From Zero to Hero: Master Hash Tables with Visual Learning*
 
+[![Python Hash Table](https://img.shields.io/badge/Python-Linked%20Table-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+![Topic](https://img.shields.io/badge/Topic-Data%20Structures-green?style=for-the-badge)
+![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-orange?style=for-the-badge)
+
+---
+
 ```
     ╔════════════════════════════════════════════════════════════════════╗
     ║                    🎯 HASH TABLE MASTERY ROADMAP                   ║
@@ -36,17 +42,17 @@ A **Hash Table** (also known as HashMap) is one of the most important data struc
     🔑 Key-Value Magic System 🔑
     
     Input: "apple" → Hash Function → Index: 5
-    ┌─────────────────────────────────────────┐
+    ┌────────────────────────────────────────┐
     │  Index  │  Key     │  Value            │
     ├─────────┼──────────┼───────────────────┤
     │   0     │  None    │  None             │
-    │   1     │  "cat"   │  "🐱"            │
+    │   1     │  "cat"   │  "🐱"             │
     │   2     │  None    │  None             │
-    │   3     │  "dog"   │  "🐕"            │
+    │   3     │  "dog"   │  "🐕"             │
     │   4     │  None    │  None             │
-    │   5     │  "apple" │  "🍎"            │  ← Our data lands here!
+    │   5     │  "apple" │  "🍎"             │  ← Our data lands here!
     │   6     │  None    │  None             │
-    │   7     │  "book"  │  "📚"            │
+    │   7     │  "book"  │  "📚"             │
     └─────────┴──────────┴───────────────────┘
 ```
 
@@ -424,14 +430,14 @@ interactive_hash_table_demo()
 """
 LINEAR PROBING VISUALIZATION:
 ┌─────────────────────────────────────────────────────────────┐
-│  Collision at index 3! Let's probe linearly...             │
+│  Collision at index 3! Let's probe linearly...              │
 ├─────────────────────────────────────────────────────────────┤
-│  Index: 0   1   2   3   4   5   6   7   8   9              │
-│  Data:  -   -  key₁ OLD  -   -   -   -   -   -             │
+│  Index: 0   1   2   3   4   5   6   7   8   9               │
+│  Data:  -   -  key₁ OLD  -   -   -   -   -   -              │
 │                     ↑                                       │
 │                NEW KEY wants this spot!                     │
 │                                                             │
-│  Probing sequence: 3 → 4 → 5 → 6 → 7 → 8 → 9 → 0 → 1 → 2  │
+│  Probing sequence: 3 → 4 → 5 → 6 → 7 → 8 → 9 → 0 → 1 → 2    │
 │  Resolution: NEW KEY goes to index 4 ✅                     │
 └─────────────────────────────────────────────────────────────┘
 """
@@ -510,10 +516,10 @@ class LinearProbingHashTable:
 """
 SEPARATE CHAINING VISUALIZATION:
 ┌─────────────────────────────────────────────────────────────┐
-│  Each bucket contains a linked list of key-value pairs     │
+│  Each bucket contains a linked list of key-value pairs      │
 ├─────────────────────────────────────────────────────────────┤
 │  Index: [0] → None                                          │
-│         [1] → (key₁,val₁) → (key₄,val₄) → None             │
+│         [1] → (key₁,val₁) → (key₄,val₄) → None              │
 │         [2] → (key₂,val₂) → None                            │
 │         [3] → (key₃,val₃) → (key₅,val₅) → (key₇,val₇) → None│
 │         [4] → None                                          │
@@ -1800,17 +1806,17 @@ escape_room.play_game()
     ├─────────────────────────────────────────────────────────────┤
     │                                                             │
     │  ✅ WHAT YOU LEARNED:                                       │
-    │     • Hash tables provide O(1) average-case performance    │
-    │     • Python's dict is a highly optimized hash table       │
-    │     • Collision resolution is crucial for performance      │
+    │     • Hash tables provide O(1) average-case performance     │
+    │     • Python's dict is a highly optimized hash table        │
+    │     • Collision resolution is crucial for performance       │
     │     • Load factor impacts performance significantly         │
-    │     • Real-world applications are everywhere!              │
+    │     • Real-world applications are everywhere!               │
     │                                                             │
-    │  🚀 NEXT STEPS:                                            │
+    │  🚀 NEXT STEPS:                                             │
     │     • Practice implementing different collision strategies  │
-    │     • Experiment with custom hash functions               │
-    │     • Build your own caching system                       │
-    │     • Explore advanced topics like consistent hashing     │
+    │     • Experiment with custom hash functions                 │
+    │     • Build your own caching system                         │
+    │     • Explore advanced topics like consistent hashing       │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
@@ -1847,17 +1853,17 @@ escape_room.play_game()
 ---
 
 ```
-    ╔════════════════════════════════════════════════════════════════════╗
-    ║                        🎉 CONGRATULATIONS! 🎉                      ║
-    ║                                                                    ║
+    ╔═══════════════════════════════════════════════════════════════════╗
+    ║                        🎉 CONGRATULATIONS! 🎉                     ║
+    ║                                                                   ║
     ║        You've completed the ultimate Python Hash Tables guide!    ║
-    ║                                                                    ║
-    ║    🔑 You now understand: Theory, Implementation, and Practice     ║
+    ║                                                                   ║
+    ║    🔑 You now understand: Theory, Implementation, and Practice    ║
     ║    🚀 Ready to build: High-performance data structures            ║
     ║    🎯 Equipped with: Real-world problem-solving skills            ║
-    ║                                                                    ║
+    ║                                                                   ║
     ║                    Happy Coding! 🐍✨                             ║
-    ╚════════════════════════════════════════════════════════════════════╝
+    ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
