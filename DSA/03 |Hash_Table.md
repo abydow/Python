@@ -1,7 +1,7 @@
 # 🔐 **The Complete Python Hash Tables Guide** 
 ## *From Zero to Hero: Master Hash Tables with Visual Learning*
 
-[![Python Hash Table](https://img.shields.io/badge/Python-Linked%20Table-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Python Hash Table](https://img.shields.io/badge/Python-Hash%20Table-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 ![Topic](https://img.shields.io/badge/Topic-Data%20Structures-green?style=for-the-badge)
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-orange?style=for-the-badge)
 
