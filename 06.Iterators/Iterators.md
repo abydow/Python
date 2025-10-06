@@ -25,17 +25,20 @@
 
 ## 📚 Table of Contents
 
-```
-📖 Introduction to Iterators
-🔧 The Iterator Protocol  
-🎨 Visual Iterator Flow
-🏗️ Building Custom Iterators
-🎯 Generator Magic
-💾 Memory Efficiency  
-⚠️ Constraints & Limitations
-🚀 Best Practices
-🧪 Interactive Examples
-```
+
+- [📖 Introduction to Iterators](#-introduction-to-python-iterators)
+- [🔧 The Iterator Protocol](#-the-iterator-protocol)
+- [🎨 Visual Iterator Flow](#-visual-iterator-flow)
+- [🏗️ Building Custom Iterators](#-building-custom-iterators)
+- [🎯 Generator Magic](#-generator-magic-the-elegant-way)
+- [💾 Memory Efficiency](#-memory-efficiency-the-iterator-advantage)
+- [⚠️ Constraints & Limitations](#-constraints--limitations)
+- [🚀 Best Practices](#-best-practices--patterns)
+- [🧪 Interactive Examples](#-interactive-coding-challenges)
+- [🎓 Summary & Key Takeaways](#-summary--key-takeaways)
+- [🚀 Next Steps](#-next-steps-in-your-iterator-journey)
+- [📚 Recommended Resources](#-recommended-resources)
+
 
 ---
 
