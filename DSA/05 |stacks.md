@@ -1,6 +1,10 @@
 # 🐍 Python Stacks: The Complete Interactive Guide
 *Master the Art of Stack Data Structure in Python*
 
+[![Python Stacks](https://img.shields.io/badge/Python-Stacks-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+![Topic](https://img.shields.io/badge/Topic-Data%20Structures-green?style=for-the-badge)
+![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-orange?style=for-the-badge)
+
 ---
 
 ## 🌟 Table of Contents
