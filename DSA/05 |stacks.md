@@ -981,4 +981,5 @@ empty = stack.empty()   # Check empty
 
 ---
 
+
 *This guide was created with ❤️ for Python developers who want to master stack data structures!*
