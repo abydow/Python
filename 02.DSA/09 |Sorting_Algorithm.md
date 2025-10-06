@@ -61,7 +61,7 @@ Understanding time complexity is essential for choosing the right sorting algori
 PERFORMANCE SCALE (Best to Worst):
 ═══════════════════════════════════════════════════════
 
-Excellent: O(1)        ████ Constant time
+Excellent: O(1)         ████ Constant time
 Good:      O(log n)     ████████ Logarithmic
 Fair:      O(n)         ████████████████ Linear
 Bad:       O(n log n)   ████████████████████████ Linearithmic
@@ -716,9 +716,9 @@ n = 1M+:     Use Python's built-in sort or highly optimized libraries
                     ┌─────────────┐
                     │ Size < 50?  │
                     └─────────────┘
-                      ┃        ┃
-                     Yes       No
-                      ┃        ┃
+                      ┃         ┃
+                     Yes        No
+                      ┃         ┃
               ┌───────────┐     │
               │Educational│     │
               │purposes?  │     │
