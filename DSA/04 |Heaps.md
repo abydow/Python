@@ -111,13 +111,13 @@ print(numbers)  # [1, 3, 5, 4, 8, 7]
 ┌─────────────────────────────────────────────────────────────┐
 │                    HEAPQ MODULE FUNCTIONS                   │
 ├─────────────────┬───────────────────────────────────────────┤
-│ heapify(list)   │ Convert list to heap - O(n)              │
-│ heappush(h, x)  │ Add element to heap - O(log n)           │
-│ heappop(heap)   │ Remove & return smallest - O(log n)      │
-│ heappushpop()   │ Push then pop - O(log n)                 │
-│ heapreplace()   │ Pop then push - O(log n)                 │
-│ nlargest(k, h)  │ Get k largest elements - O(k log n)      │
-│ nsmallest(k, h) │ Get k smallest elements - O(k log n)     │
+│ heapify(list)   │ Convert list to heap - O(n)               │
+│ heappush(h, x)  │ Add element to heap - O(log n)            │
+│ heappop(heap)   │ Remove & return smallest - O(log n)       │
+│ heappushpop()   │ Push then pop - O(log n)                  │
+│ heapreplace()   │ Pop then push - O(log n)                  │
+│ nlargest(k, h)  │ Get k largest elements - O(k log n)       │
+│ nsmallest(k, h) │ Get k smallest elements - O(k log n)      │
 └─────────────────┴───────────────────────────────────────────┘
 ```
 
@@ -987,31 +987,7 @@ Congratulations! 🎉 You've mastered Python heaps! Here's what you've learned:
 
 ---
 
-## 🎨 ASCII Art Gallery
 
-```
-    🏆 HEAP MASTERY ACHIEVED! 🏆
-    
-         .-..-. 
-        /  ||  \  
-       |   ||   |
-        \  ||  /
-         '-''-' 
-    
-    📚 Knowledge Level: EXPERT 📚
-    🎯 Skills Unlocked: ALL 🎯
-    
-    ╔══════════════════════════════╗
-    ║  🐍 Python Heap Ninja 🐍    ║
-    ║                              ║
-    ║  ✓ Min/Max Heap Operations   ║
-    ║  ✓ Priority Queue Design     ║  
-    ║  ✓ Algorithm Optimization    ║
-    ║  ✓ Real-world Applications   ║
-    ╚══════════════════════════════╝
-    
-    Ready to heap big success! 🚀
-```
 
 ---
 
