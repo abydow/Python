@@ -1,6 +1,6 @@
 # 🔄 The Complete Guide to Python Iterators: Mastering Efficient Data Processing
 
-[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Python](https://img.shields.io/badge/Python-3.13-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Documentation](https://img.shields.io/badge/Docs-Comprehensive-green.svg?style=for-the-badge)](https://github.com)
 [![Interactive](https://img.shields.io/badge/Learning-Interactive-orange.svg?style=for-the-badge)](https://github.com)
 
