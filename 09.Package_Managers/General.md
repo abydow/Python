@@ -956,6 +956,7 @@ pixi install --force-reinstall numpy
 
 ### Feature Comparison Matrix
 
+```ascii
 ┌────────────────┬──────────┬───────────┬──────────┬─────────────┬──────────┬──────────┐
 │    FEATURE     │ pip      │ conda     │ pipx     │ poetry      │ uv       │ pixi     │
 ├────────────────┼──────────┼───────────┼──────────┼─────────────┼──────────┼──────────┤
@@ -972,6 +973,7 @@ pixi install --force-reinstall numpy
 └────────────────┴──────────┴───────────┴──────────┴──────────────┴──────────┴──────────┘
 
 Legend: ⭐ (1-4 stars), ✅ Yes, ❌ No
+```
 
 ### Performance Benchmark
 
