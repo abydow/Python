@@ -33,7 +33,7 @@ Python's package management ecosystem has evolved significantly, from simple `pi
     │  │  CLASSIC    │     │   MODERN    │     │   CUTTING   │        │
     │  │  TOOLS      │     │   UNIFIED   │     │    EDGE     │        │
     │  │             │     │  SOLUTIONS  │     │   TOOLS     │        │
-    │  │ • pip       │ ───▶│   • poetry │ ───▶│   • uv      │        │
+    │  │ • pip       │ ───▶│   • poetry  │───▶│   • uv      │        │
     │  │ • conda     │     │   • pipenv  │     │   • pixi    │        │
     │  │ • virtualenv|     │   • pipx    │     │   • rye     │        │
     │  │ • pyenv     │     │   • hatch   │     │             │        │
