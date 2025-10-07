@@ -1031,7 +1031,7 @@ Legend: ⭐ (1-4 stars), ✅ Yes, ❌ No
 │          ├── ✅ Global availability                  │
 │          └── ✅ Easy management                      │
 │                                                      │
-│  ⚡ HIGH-PERFORMANCE NEEDS                           │
+│  ⚡ HIGH-PERFORMANCE NEEDS                            │
 │      └── uv                                          │
 │          ├── ✅ Extreme speed                        │
 │          ├── ✅ Modern workflows                     │
@@ -1399,7 +1399,7 @@ esac
     THE FUTURE: UNIFIED PYTHON TOOLCHAIN
     ┌─────────────────────────────────────────────────────┐
     │                                                     │
-    │                  ⚡ UV-NEXT ⚡                      │
+    │                  ⚡ UV-NEXT ⚡                        │
     │                     │                               │
     │    ┌────────────────┼────────────────┐              │
     │    │                │                │              │
