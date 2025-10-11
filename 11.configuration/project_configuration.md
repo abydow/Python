@@ -44,7 +44,7 @@ Configuration management is the backbone of robust Python applications. It enabl
 Configuration Management Flow:
 
 ┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
-│Development  │──▶│   Config    │──▶│ Application │──▶│ Production  │
+│Development  │───▶│   Config    │───▶│ Application │───▶│ Production  │
 │Environment  │    │   Files     │    │    Code     │    │Environment  │
 └─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘
        │                   │                   │                   │
