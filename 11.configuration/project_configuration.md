@@ -87,9 +87,9 @@ my-awesome-project/
 
 Configuration Files Priority:
 ┌─────────────┐ 1st  ┌──────────────┐ 2nd  ┌──────────────┐ 3rd
-│ Environment │ ───▶ │pyproject.toml│ ───▶│Default Values│
+│ Environment │ ───▶ │pyproject.toml│ ───▶ │Default Values│
 │ Variables   │      │   config     │     │  in Code      │
-└─────────────┘      └──────────────┘     └──────────────┘
+└─────────────┘      └──────────────┘     └───────────────┘
 ```
 
 ---
