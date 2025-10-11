@@ -31,7 +31,7 @@ Imagine you have a **magical phonebook** 📞 that can store ANYTHING! Not just 
 |-------------------|---------------------|
 | Word → Definition | Key → Value |
 | "Apple" → "A red fruit" | `"apple": "red fruit"` |
-| Alphabetical order | Any order (Python 3.7+) |
+| Alphabetical order | Insertion order (Python 3.7+) |
 | Only strings | Any *hashable type* |
 
 > In Python, a hashable type refers to an object that has a hash value which remains constant throughout its lifetime
