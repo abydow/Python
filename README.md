@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python&logoColor=white)
-![Learning](https://img.shields.io/badge/Status-Learning%20in%20Progress-green?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Status-Complete-green?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-orange?style=for-the-badge)
 ![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
 
