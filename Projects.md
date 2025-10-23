@@ -5,10 +5,10 @@
 
 ## Beginner :- 
  
-- 1 |[Tic-Tac-Toe game](https://github.com/abydow/Tic_Tac_Toe-game.git)
-- 2 |[Blackjack game](https://github.com/abydow/Black-jack-game.git) 
-- 3 |[Tasktracker](https://github.com/abydow/Tasktracker-CLI-.git)
-- 4 | Github User Activity
+- 1 |[Tic-Tac-Toe game](https://github.com/abydow/Tic_Tac_Toe-game)
+- 2 |[Blackjack game](https://github.com/abydow/Black-jack-game) 
+- 3 |[Tasktracker](https://github.com/abydow/Tasktracker-CLI-)
+- 4 |[Github User Activity](https://github.com/abydow/Github_User_Activity_CLI)
 - 5 | Expense Tracker
 - 6 | Number Guessing Game
 - 7 | Unit converter
